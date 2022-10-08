@@ -1,0 +1,29 @@
+{
+  "name": "@justhxnry/jsoned",
+  "version": "1.0.0",
+  "description": "Object/Array utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustHxnry/jsoned.git"
+  },
+  "keywords": [
+    "json",
+    "object",
+    "array",
+    "tools"
+  ],
+  "author": "JustHxnry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustHxnry/jsoned/issues"
+  },
+  "homepage": "https://github.com/JustHxnry/jsoned#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
